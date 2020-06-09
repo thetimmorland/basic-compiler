@@ -28,4 +28,4 @@ nl ::= '\n'+
 {}: Zero or more\
 []: Zero or one\
 \+: One or more of left\
-|: logical or\
+|: logical or
